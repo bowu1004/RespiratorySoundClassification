@@ -1,1 +1,2 @@
-# RespiratorySoundClassification
+# Respiratory Sound Classification
+### Various features of respiratory sounds contribute to the categorical representations in different extent. We propose the use of deep learning methods (i.e. convolutional neural networks) to discover the effectiveness and efficiency of potentional multiple features for respriatory sound classification. This may help develop effective and efficient models for COVID-19 prelimimary screening during this pandemic.
