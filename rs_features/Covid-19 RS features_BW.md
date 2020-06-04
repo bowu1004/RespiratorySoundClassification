@@ -1,5 +1,5 @@
 # The Time and Frequency Features of COVID-19 Respiratory Sounds
-##### by BW
+##### by BW, June 04, 2020
 ###### Paper reference: The respiratory sound features of COVID-19 patients fill gaps between clinical data and screening methods. April 10, 2020. (https://www.medrxiv.org/content/10.1101/2020.04.07.20051060v1)
 ---
 ## 1. [Respiratory Sound Characteristics](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6101681/)
