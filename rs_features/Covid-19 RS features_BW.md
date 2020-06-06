@@ -34,6 +34,8 @@ The diagnosis results of respiratory sounds in the asymptomatic patients include
 + [x] Concerning **crackles features**: `duration <100ms, and the main frequency range is about 200-600Hz`.
 + [x] The waveform in the cited paper shows a sharp peak in high intensity range, and the interval time are about `50ms`. The **main frequencies** are between `150 and 600Hz`. (*Crackles: Crackles are short, explosive, nonmusical sounds heard on inspiration and sometimes during expiration. The feature is `duration<100ms`, frequency range is about `350Hz (Fine cackles) , or 650Hz (Coarse cackles)`, other studies have reported the rang is `100-1000 Hz`.)*
 + [x] BW: **Most of the energy is below 1,000 Hz for the signals captured over the chest**. This increases to up to 2,000 Hz in the `mouth` and 5,000 Hz over the `trachea`, with a drop at 800 Hz.
++ [x] **pneumonia--hyperresonance--crackles** Dullness replaces resonance when fluid or solid tissue replaces air-containing lung tissues, such as occurs with pneumonia, pleural effusions, or tumors. Hyperresonant sounds that are louder and lower pitched than resonant sounds are normally heard when percussing the chests of children and very thin adults.
++ [x] **asythma--hyporesonance--wheezes** Asythma will have a hypo-resonance (higher pitched, lower amplitudes) to percussion.
 + [x] (*TBD*) Wheeze	>80ms	BI and mostly BO	>400 Hz	Asthma, COPD, foreign body
 + [x] (*TBD*) Fine crackle	~5ms	BI	650 Hz	Pneumonia, congestive heart failure, lung fibrosis
 + [x] (*TBD*) Coarse crackle	~15ms	Mostly BI, BO, both	350 Hz	Chronic bronchitis, bronchiectasis, COPD
