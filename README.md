@@ -4,3 +4,4 @@
 
 
 ## [TBD] (MIT Develops an AI Model to Detect Covid-19 By Listening To Coughs (Paper Explained))[https://crossminds.ai/video/5fa988db3493db167028008e/]
+His youtube channel is kind of awesome.
